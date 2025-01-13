@@ -4,6 +4,7 @@
   
 &nbsp;&nbsp;&nbsp;He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maobinlu&show_icons=true&theme=radical)
 
 <!--
 **maobinlu/maobinlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
