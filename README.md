@@ -4,7 +4,7 @@
   
 &nbsp;&nbsp;&nbsp;He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maobinlu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maobinlu&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maobinlu&layout=compact)
 
