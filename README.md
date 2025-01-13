@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maobinlu&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+![trophy](https://github-profile-trophy.vercel.app/?username=maobinlu)
 
 <!--
 **maobinlu/maobinlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
